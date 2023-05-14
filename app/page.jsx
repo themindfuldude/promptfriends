@@ -20,7 +20,7 @@ const Home = () => (
       <span className='blue_gradient text-center'> with your PromptFriends  and your friends around the world! </span>
       <br />
       <br />
-      <span className='orange_gradient text-center'>  With PromptFriends on your side</span>
+      <span className='orange_gradient text-center'> With PromptFriends on your side</span>
       <br />
       <span className='blue_gradient text-center'> the possibilities are endless.</span>
       <br />
