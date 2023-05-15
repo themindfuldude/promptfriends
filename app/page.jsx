@@ -39,6 +39,7 @@ const Home = () => (
       <br />
       <span className='blue_gradient text-center'> It is 100% Free</span>
       <br />
+      <br />
       <span className='orange_gradient text-center'> PromptFriends is Powered by Cutting Edge Technology</span> 
     <span className='blue_gradient text-center'> Next.js 13+React+Tailwind+MongoDB+Google Oauth</span> 
     <br />
