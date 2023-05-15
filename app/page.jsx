@@ -11,7 +11,7 @@ const Home = () => (
     <p className='desc text-center'>
       <span className='blue_gradient text-center'> PromptFriends is more than just an app</span>
       <span className='orange_gradient text-center'> it's a community focused on the creation, discovery, and sharing of prompt ideas for AI platforms</span>
-      <span className='blue_gradient text-center'> like ChatGPT, Auto-GPT, Bing, Midjourney, Leonardo AI and More!</span>
+      <span className='blue_gradient text-center'> like ChatGPT, Auto-GPT, Bard, Midjourney, Leonardo AI and More!</span>
       <br />
       <br />
       <span className='orange_gradient text-center'> Create your own prompts,</span> 
