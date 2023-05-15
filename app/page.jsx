@@ -11,7 +11,7 @@ const Home = () => (
     <p className='desc text-center'>
       <span className='blue_gradient text-center'> PromptFriends is more than just an app</span>
       <span className='orange_gradient text-center'> it's a community focused on the creation, discovery, and sharing of prompt ideas for AI platforms</span>
-      <span className='blue_gradient text-center'> like ChatGPT, Auto-GPT, Bard, Midjourney, Leonardo AI and More!</span>
+      <span className='blue_gradient text-center'> like ChatGPT, Auto-GPT, Bing, Midjourney, Leonardo AI and More!</span>
       <br />
       <br />
       <span className='orange_gradient text-center'> Create your own prompts,</span> 
@@ -39,8 +39,8 @@ const Home = () => (
       <br />
       <span className='blue_gradient text-center'> It is 100% Free</span>
       <br />
+      <span className='orange_gradient text-center'> PromptFriends: Powered by Cutting Edge Technology!</span> 
       <br />
-      <span className='orange_gradient text-center'> PromptFriends is Powered by Cutting Edge Technology</span> 
     <span className='blue_gradient text-center'> Next.js 13+React+Tailwind+MongoDB+Google Oauth</span> 
     <br />
     <span className='orange_gradient text-center'> It's a full-stack C.R.U.D monster that never sleeps!</span>
